@@ -15,7 +15,7 @@ const me = {
   age: 24,
   city: "Aracaju",
   tecnologies: ["Html", "CSS", "Javascript", "Typescript", "React"],
-  skills: ["3D Modelling", "Pixel Art"]
+  skills: ["3D Modelling"]
 }
 
 
