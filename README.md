@@ -1,4 +1,4 @@
-<h1>👋Hi, I'm Jônatas Daniel</h1>
+<h1 align="center">👋Hi, I'm Jônatas Daniel</h1>
 
 <h2>👤About me</h2>
 <ul>
